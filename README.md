@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# ReactLinkify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+"ReactLinkify" is a Bootstrap blank template website powered by React. It offers a seamless and interactive user experience with a collection of links, including Home, About Us, Roadmap, Contact, and Admin. This project combines the flexibility of Bootstrap's responsive design and the power of React's component-based architecture to create a dynamic and visually appealing website. Whether you're a visitor exploring various sections or an administrator managing the content, ReactLinkify ensures smooth navigation and efficient information delivery. With its customizable and modular structure, this project serves as an ideal foundation for building robust and scalable web applications.
 
-## Available Scripts
+## Installation
+To use ReactLinkify, follow these steps:
 
-In the project directory, you can run:
+1. Clone the repository: `git clone https://github.com/realmchua/ReactLinkify.git`
+2. Navigate to the project directory: `cd ReactLinkify`
+3. Install the dependencies: `npm install`
 
-### `npm start`
+## Usage
+To start using ReactLinkify, perform the following:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Start the development server: `npm start`
+2. Open your preferred web browser and go to `http://localhost:3000`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
+- Home: Provides an introduction to the website.
+- About Us: Displays information about the organization or company.
+- Roadmap: Outlines the future plans and milestones.
+- Contact: Allows users to get in touch with the website administrators.
+- Admin: Provides access to the admin dashboard for managing the website's content.
 
-### `npm test`
+## Contributing
+We welcome contributions to ReactLinkify. To contribute, please follow these guidelines:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Fork the repository.
+2. Create a new branch: `git checkout -b reactlinkify/new-module-name`
+3. Make your changes and commit them: `git commit -m 'Add a new module'`
+4. Push the changes to your branch: `git push origin reactlinkify/new-module-name`
+5. Submit a pull request.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
